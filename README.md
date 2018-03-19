@@ -1,2 +1,2 @@
 # bootbuild
-Github Страницы http://github.com
+Github Страницы
